@@ -47,9 +47,18 @@ Dự án này là một ứng dụng web fullstack cho phép người dùng:
 
 ## 6. Mục Tiêu Dự Án
 
-Xây dựng một ứng dụng web fullstack sẵn sàng triển khai, thể hiện:
+Xây dựng một ứng dụng web fullstack sẵn sàng triển khai, thể hiện:s
 
 - Kỹ thuật backend (Java Spring Boot)
 - Phát triển frontend (React)
 - Giao tiếp thời gian thực (WebSocket)
 - Kiến trúc sạch và thiết kế có thể mở rộng
+
+## 7 Development Enviroment Instralled 
+
+- Node.js
+- React Vite
+- Java JDK 17
+- Maven
+- PostgreSQL
+- pgAdmin
